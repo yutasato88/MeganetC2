@@ -26,7 +26,6 @@
 
 8. Connect to the server through [PuTTY](https://www.putty.org/) on a raw socket connection.
 
-https://github.com/CirqueiraDev/KryptonC2/assets/118860604/39c37798-fba0-4d95-948b-a013c3842ee2
 
 <br>
 
