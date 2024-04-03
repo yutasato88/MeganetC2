@@ -1,7 +1,7 @@
-<h1 align="center">Krypton Botnet</h1>
+<h1 align="center">MegaNet C2</h1>
 
 <p align="center">
-    <img src="https://github.com/CirqueiraDev/KryptonC2/assets/118860604/9a1a4346-07bc-477a-b194-6205f9cf2884">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL38wksPcGRif538q8qxOoCqVCEPKU22_9WZQ2WoBJv8ms_dGSZNAz8ewfejJLr9dH6Nbp_0WW4MLmX9Jv7i50oSCFq8QG5uHkS1THfeZk0sc11TgSuqpQk2AkVImUaYS9_GLzanq1H_OVfC6NkyLmhisyxnQ2-bxa-p4TPDvyk2c0CBkw_Mu2TF3mfKqt/s16000/Screenshot%202024-04-03%20205322.png">
 </p>
 
 <br>
