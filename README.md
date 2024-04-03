@@ -6,13 +6,13 @@
 
 <br>
 
- **KryptonC2** is a basic open source [denial of service](https://en.wikipedia.org/wiki/Denial-of-service_attack) [botnet](https://en.wikipedia.org/wiki/Botnet) system written in Python 3, consists of a connect and control server and a bot malware script.
+ **MeganetC2** is a basic open source [denial of service](https://en.wikipedia.org/wiki/Denial-of-service_attack) [botnet](https://en.wikipedia.org/wiki/Botnet) system written in Python 3, consists of a connect and control server and a bot malware script.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # Installation
 1. Install Git and Python 3 on your server.
-2. Clone the KryptonC2 Github repository to your server via Git: `$ git clone https://github.com/CirqueiraDev/KryptonC2`.
+2. Clone the MeganetC2 Github repository to your server via Git: `$ git clone https://github.com/yutasato88/MeganetC2`.
 3. Change the host address and C&C port in the configuration section in [bot.py](src/Payload/bot.py) to your server address and C&C port.
 4. Install the requirements.txt
 5. Start the C2 server by executing the command: `$ python main.py`.
@@ -59,33 +59,12 @@ https://github.com/CirqueiraDev/KryptonC2/assets/118860604/39c37798-fba0-4d95-94
 8. **Send attacks with API's** 
 9. **Optimize malicious code**
 
-<br>
-
-# Owner Code
-📌**Credits:** https://github.com/NixWasHere/NixC2
-
-<br>
 
 ---
 
-**💰 Donation Links:**
-#### Donate Links
-
-<b>BTC</b>: <code>bc1qynerkzreqgeuhfywfelhz45df2a73f38cmctzu</code></br>
-<b>ETH</b>: <code>0xb685A72EdA6a016A43d75D269FdFa6315C80F8c9</code></br>
-<b>Paypal: Contact me on Discord or Telegram</b>
-
----
 
 **👑Author:**
 
-- **CirqueiraDev**
-- **Discord: cirqueira**
+- **YutaSato**
+- **Telegram: cahayaa878**
 
-<div>
-    
-  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cirqueiradev)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cirqueira.lol/)
-  [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@cirqueiradev)
-  <a href="https://t.me/CirqueiraDev"><img src="https://img.shields.io/badge/Telegram-0078FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Tiktok"></a>
-</div>
